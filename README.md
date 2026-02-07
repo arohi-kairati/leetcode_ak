@@ -13,6 +13,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/arohi-kairati/leetcode_ak/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arohi-kairati/leetcode_ak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/arohi-kairati/leetcode_ak/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
