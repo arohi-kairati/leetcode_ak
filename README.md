@@ -29,6 +29,7 @@
 | [0014-longest-common-prefix](https://github.com/arohi-kairati/leetcode_ak/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/arohi-kairati/leetcode_ak/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/arohi-kairati/leetcode_ak/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
@@ -82,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
