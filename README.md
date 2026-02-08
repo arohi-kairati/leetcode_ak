@@ -72,6 +72,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0338-counting-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -85,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
