@@ -18,6 +18,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/arohi-kairati/leetcode_ak/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/arohi-kairati/leetcode_ak/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/arohi-kairati/leetcode_ak/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
