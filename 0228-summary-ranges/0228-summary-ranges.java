@@ -50,12 +50,6 @@ class Solution {
                 }
                 //System.out.println(i+" "+j);
             }
-            //System.out.println(s);
-            // if(!s.isEmpty())
-            // {
-            //     str.add(s);
-            //     s = "";
-            // }
         }
         return str;
     }
