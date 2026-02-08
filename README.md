@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/arohi-kairati/leetcode_ak/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arohi-kairati/leetcode_ak/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/arohi-kairati/leetcode_ak/tree/master/0066-plus-one) |
 | [0228-summary-ranges](https://github.com/arohi-kairati/leetcode_ak/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
