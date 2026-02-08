@@ -47,6 +47,7 @@
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/arohi-kairati/leetcode_ak/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1550-three-consecutive-odds](https://github.com/arohi-kairati/leetcode_ak/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/arohi-kairati/leetcode_ak/tree/master/1672-richest-customer-wealth) |
@@ -124,6 +125,7 @@
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/arohi-kairati/leetcode_ak/tree/master/1051-height-checker) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0191-number-of-1-bits) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/arohi-kairati/leetcode_ak/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
