@@ -45,6 +45,7 @@
 | [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1550-three-consecutive-odds](https://github.com/arohi-kairati/leetcode_ak/tree/master/1550-three-consecutive-odds) |
@@ -66,6 +67,7 @@
 | [0415-add-strings](https://github.com/arohi-kairati/leetcode_ak/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0125-valid-palindrome](https://github.com/arohi-kairati/leetcode_ak/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arohi-kairati/leetcode_ak/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
@@ -112,6 +115,7 @@
 | [0342-power-of-four](https://github.com/arohi-kairati/leetcode_ak/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/arohi-kairati/leetcode_ak/tree/master/0461-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -124,6 +128,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/arohi-kairati/leetcode_ak/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
