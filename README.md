@@ -11,6 +11,7 @@
 | [0258-add-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/arohi-kairati/leetcode_ak/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/arohi-kairati/leetcode_ak/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -56,6 +57,7 @@
 | [0067-add-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/arohi-kairati/leetcode_ak/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/arohi-kairati/leetcode_ak/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 ## Number Theory
@@ -75,6 +77,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/arohi-kairati/leetcode_ak/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/arohi-kairati/leetcode_ak/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arohi-kairati/leetcode_ak/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/arohi-kairati/leetcode_ak/tree/master/0709-to-lower-case) |
