@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arohi-kairati/leetcode_ak/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/arohi-kairati/leetcode_ak/tree/master/0412-fizz-buzz) |
@@ -52,6 +53,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/arohi-kairati/leetcode_ak/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0657-robot-return-to-origin) |
@@ -67,6 +69,7 @@
 | [0014-longest-common-prefix](https://github.com/arohi-kairati/leetcode_ak/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/arohi-kairati/leetcode_ak/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/arohi-kairati/leetcode_ak/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arohi-kairati/leetcode_ak/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
@@ -91,6 +94,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
