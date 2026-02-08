@@ -64,6 +64,7 @@
 | [0058-length-of-last-word](https://github.com/arohi-kairati/leetcode_ak/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/arohi-kairati/leetcode_ak/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/arohi-kairati/leetcode_ak/tree/master/0709-to-lower-case) |
@@ -82,10 +83,12 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 ## Matrix
@@ -116,6 +119,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
