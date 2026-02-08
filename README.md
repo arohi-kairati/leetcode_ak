@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/arohi-kairati/leetcode_ak/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/arohi-kairati/leetcode_ak/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/arohi-kairati/leetcode_ak/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/arohi-kairati/leetcode_ak/tree/master/0415-add-strings) |
@@ -121,6 +122,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/arohi-kairati/leetcode_ak/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
