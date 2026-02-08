@@ -65,6 +65,7 @@
 | [0014-longest-common-prefix](https://github.com/arohi-kairati/leetcode_ak/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/arohi-kairati/leetcode_ak/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/arohi-kairati/leetcode_ak/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/arohi-kairati/leetcode_ak/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/arohi-kairati/leetcode_ak/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arohi-kairati/leetcode_ak/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
