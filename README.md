@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arohi-kairati/leetcode_ak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
@@ -49,5 +51,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
