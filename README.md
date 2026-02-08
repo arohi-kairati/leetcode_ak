@@ -51,6 +51,7 @@
 | [1051-height-checker](https://github.com/arohi-kairati/leetcode_ak/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1550-three-consecutive-odds](https://github.com/arohi-kairati/leetcode_ak/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/arohi-kairati/leetcode_ak/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -132,6 +133,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/arohi-kairati/leetcode_ak/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
@@ -169,6 +171,7 @@
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Queue
 |  |
 | ------- |
@@ -199,4 +202,5 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/arohi-kairati/leetcode_ak/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
