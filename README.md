@@ -111,6 +111,7 @@
 | [0338-counting-bits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/arohi-kairati/leetcode_ak/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/arohi-kairati/leetcode_ak/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
