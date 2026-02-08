@@ -48,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/arohi-kairati/leetcode_ak/tree/master/0709-to-lower-case) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -88,4 +89,16 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
