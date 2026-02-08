@@ -34,6 +34,7 @@
 | [0066-plus-one](https://github.com/arohi-kairati/leetcode_ak/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/arohi-kairati/leetcode_ak/tree/master/0228-summary-ranges) |
+| [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 ## Matrix
