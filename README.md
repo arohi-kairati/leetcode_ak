@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/arohi-kairati/leetcode_ak/tree/master/0709-to-lower-case) |
@@ -92,6 +94,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
