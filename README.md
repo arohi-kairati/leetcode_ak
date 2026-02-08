@@ -26,6 +26,7 @@
 | [0014-longest-common-prefix](https://github.com/arohi-kairati/leetcode_ak/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0228-summary-ranges](https://github.com/arohi-kairati/leetcode_ak/tree/master/0228-summary-ranges) |
+| [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -100,12 +101,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arohi-kairati/leetcode_ak/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arohi-kairati/leetcode_ak/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
