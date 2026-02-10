@@ -17,6 +17,7 @@
 | [0412-fizz-buzz](https://github.com/arohi-kairati/leetcode_ak/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/arohi-kairati/leetcode_ak/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@
 | [0228-summary-ranges](https://github.com/arohi-kairati/leetcode_ak/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +136,7 @@
 | [0088-merge-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/arohi-kairati/leetcode_ak/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
