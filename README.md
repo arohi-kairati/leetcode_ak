@@ -44,6 +44,7 @@
 | [0066-plus-one](https://github.com/arohi-kairati/leetcode_ak/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/arohi-kairati/leetcode_ak/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/arohi-kairati/leetcode_ak/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/arohi-kairati/leetcode_ak/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +178,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/arohi-kairati/leetcode_ak/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/arohi-kairati/leetcode_ak/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
