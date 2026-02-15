@@ -7,12 +7,13 @@ class Solution {
             if(area % i == 0)
             {
                 j = area / i;
-                if(j-i < min)
-                {
-                    min = j-i;
+                // if(j-i < min)
+                // {
+                //     min = j-i;
                     arr[0] = j;
                     arr[1] = i;
-                }
+                    break;
+                //}
             }
         }
         return arr;
