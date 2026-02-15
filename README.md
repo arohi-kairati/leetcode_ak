@@ -27,6 +27,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/arohi-kairati/leetcode_ak/tree/master/1837-sum-of-digits-in-base-k) |
+| [1903-largest-odd-number-in-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/arohi-kairati/leetcode_ak/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/arohi-kairati/leetcode_ak/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -104,6 +105,7 @@
 | [0709-to-lower-case](https://github.com/arohi-kairati/leetcode_ak/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0824-goat-latin) |
 | [1108-defanging-an-ip-address](https://github.com/arohi-kairati/leetcode_ak/tree/master/1108-defanging-an-ip-address) |
+| [1903-largest-odd-number-in-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arohi-kairati/leetcode_ak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/arohi-kairati/leetcode_ak/tree/master/2942-find-words-containing-character) |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
