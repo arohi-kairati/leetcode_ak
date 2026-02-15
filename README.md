@@ -26,6 +26,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arohi-kairati/leetcode_ak/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1837-sum-of-digits-in-base-k](https://github.com/arohi-kairati/leetcode_ak/tree/master/1837-sum-of-digits-in-base-k) |
 | [2235-add-two-integers](https://github.com/arohi-kairati/leetcode_ak/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/arohi-kairati/leetcode_ak/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/2520-count-the-digits-that-divide-a-number) |
