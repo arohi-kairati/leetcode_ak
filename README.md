@@ -29,6 +29,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/arohi-kairati/leetcode_ak/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/arohi-kairati/leetcode_ak/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/arohi-kairati/leetcode_ak/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/arohi-kairati/leetcode_ak/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/arohi-kairati/leetcode_ak/tree/master/2469-convert-the-temperature) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/arohi-kairati/leetcode_ak/tree/master/1952-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -234,4 +236,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/1903-largest-odd-number-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/arohi-kairati/leetcode_ak/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
