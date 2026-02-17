@@ -17,6 +17,7 @@
 | [0367-valid-perfect-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/arohi-kairati/leetcode_ak/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/arohi-kairati/leetcode_ak/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/arohi-kairati/leetcode_ak/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/arohi-kairati/leetcode_ak/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/arohi-kairati/leetcode_ak/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
