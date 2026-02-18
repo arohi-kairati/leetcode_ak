@@ -30,6 +30,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arohi-kairati/leetcode_ak/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/arohi-kairati/leetcode_ak/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/arohi-kairati/leetcode_ak/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/1903-largest-odd-number-in-string) |
@@ -113,6 +114,7 @@
 | [0709-to-lower-case](https://github.com/arohi-kairati/leetcode_ak/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0824-goat-latin) |
 | [1108-defanging-an-ip-address](https://github.com/arohi-kairati/leetcode_ak/tree/master/1108-defanging-an-ip-address) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arohi-kairati/leetcode_ak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
