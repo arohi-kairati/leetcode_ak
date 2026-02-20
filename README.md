@@ -45,6 +45,7 @@
 | [2652-sum-multiples](https://github.com/arohi-kairati/leetcode_ak/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arohi-kairati/leetcode_ak/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Array
@@ -77,6 +78,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/arohi-kairati/leetcode_ak/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/arohi-kairati/leetcode_ak/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arohi-kairati/leetcode_ak/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
@@ -171,6 +173,7 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/arohi-kairati/leetcode_ak/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
 ## Queue
 |  |
 | ------- |
