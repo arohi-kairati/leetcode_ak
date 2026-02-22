@@ -39,6 +39,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/arohi-kairati/leetcode_ak/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/arohi-kairati/leetcode_ak/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/arohi-kairati/leetcode_ak/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/arohi-kairati/leetcode_ak/tree/master/2544-alternating-digit-sum) |
@@ -268,4 +269,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/1025-divisor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
