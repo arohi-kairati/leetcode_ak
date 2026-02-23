@@ -31,6 +31,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arohi-kairati/leetcode_ak/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/arohi-kairati/leetcode_ak/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/arohi-kairati/leetcode_ak/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/arohi-kairati/leetcode_ak/tree/master/1837-sum-of-digits-in-base-k) |
@@ -93,6 +94,7 @@
 | [0657-robot-return-to-origin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
+| [1688-count-of-matches-in-tournament](https://github.com/arohi-kairati/leetcode_ak/tree/master/1688-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
 | ------- |
