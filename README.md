@@ -44,6 +44,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/arohi-kairati/leetcode_ak/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/arohi-kairati/leetcode_ak/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/arohi-kairati/leetcode_ak/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/arohi-kairati/leetcode_ak/tree/master/2843-count-symmetric-integers) |
@@ -79,6 +80,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arohi-kairati/leetcode_ak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/arohi-kairati/leetcode_ak/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/arohi-kairati/leetcode_ak/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/arohi-kairati/leetcode_ak/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
@@ -95,6 +97,7 @@
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/arohi-kairati/leetcode_ak/tree/master/1688-count-of-matches-in-tournament) |
+| [2549-count-distinct-numbers-on-board](https://github.com/arohi-kairati/leetcode_ak/tree/master/2549-count-distinct-numbers-on-board) |
 ## Number Theory
 |  |
 | ------- |
@@ -215,6 +218,7 @@
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2549-count-distinct-numbers-on-board](https://github.com/arohi-kairati/leetcode_ak/tree/master/2549-count-distinct-numbers-on-board) |
 | [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
 ## Queue
 |  |
