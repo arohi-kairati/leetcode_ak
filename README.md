@@ -30,6 +30,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/arohi-kairati/leetcode_ak/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arohi-kairati/leetcode_ak/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/arohi-kairati/leetcode_ak/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/arohi-kairati/leetcode_ak/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/arohi-kairati/leetcode_ak/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -75,6 +76,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/arohi-kairati/leetcode_ak/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/arohi-kairati/leetcode_ak/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/arohi-kairati/leetcode_ak/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -219,6 +221,7 @@
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/arohi-kairati/leetcode_ak/tree/master/1512-number-of-good-pairs) |
 | [2549-count-distinct-numbers-on-board](https://github.com/arohi-kairati/leetcode_ak/tree/master/2549-count-distinct-numbers-on-board) |
 | [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
 ## Queue
@@ -229,6 +232,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/arohi-kairati/leetcode_ak/tree/master/1512-number-of-good-pairs) |
 ## Trie
 |  |
 | ------- |
