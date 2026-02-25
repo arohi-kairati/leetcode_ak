@@ -53,6 +53,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arohi-kairati/leetcode_ak/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3280-convert-date-to-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/3280-convert-date-to-binary) |
 | [3783-mirror-distance-of-an-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -134,6 +135,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arohi-kairati/leetcode_ak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/arohi-kairati/leetcode_ak/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/arohi-kairati/leetcode_ak/tree/master/3019-number-of-changing-keys) |
+| [3280-convert-date-to-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/3280-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |
