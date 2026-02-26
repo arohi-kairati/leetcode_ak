@@ -54,6 +54,7 @@
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arohi-kairati/leetcode_ak/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/3280-convert-date-to-binary) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arohi-kairati/leetcode_ak/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -107,6 +108,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/arohi-kairati/leetcode_ak/tree/master/1952-three-divisors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arohi-kairati/leetcode_ak/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
