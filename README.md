@@ -73,6 +73,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/arohi-kairati/leetcode_ak/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/arohi-kairati/leetcode_ak/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arohi-kairati/leetcode_ak/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -130,6 +131,7 @@
 | [0657-robot-return-to-origin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/arohi-kairati/leetcode_ak/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/arohi-kairati/leetcode_ak/tree/master/0824-goat-latin) |
+| [0942-di-string-match](https://github.com/arohi-kairati/leetcode_ak/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/arohi-kairati/leetcode_ak/tree/master/1108-defanging-an-ip-address) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/1903-largest-odd-number-in-string) |
@@ -149,6 +151,7 @@
 | [0541-reverse-string-ii](https://github.com/arohi-kairati/leetcode_ak/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arohi-kairati/leetcode_ak/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/arohi-kairati/leetcode_ak/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -270,6 +273,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/arohi-kairati/leetcode_ak/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/1903-largest-odd-number-in-string) |
 ## Enumeration
 |  |
