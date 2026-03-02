@@ -68,6 +68,7 @@
 | [0136-single-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/arohi-kairati/leetcode_ak/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/arohi-kairati/leetcode_ak/tree/master/0228-summary-ranges) |
+| [0349-intersection-of-two-arrays](https://github.com/arohi-kairati/leetcode_ak/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
@@ -148,6 +149,7 @@
 | [0088-merge-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/arohi-kairati/leetcode_ak/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/arohi-kairati/leetcode_ak/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/arohi-kairati/leetcode_ak/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arohi-kairati/leetcode_ak/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
@@ -177,6 +179,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/arohi-kairati/leetcode_ak/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/arohi-kairati/leetcode_ak/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
@@ -223,6 +226,7 @@
 | [0013-roman-to-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/arohi-kairati/leetcode_ak/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/arohi-kairati/leetcode_ak/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/arohi-kairati/leetcode_ak/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
@@ -253,6 +257,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/arohi-kairati/leetcode_ak/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arohi-kairati/leetcode_ak/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/arohi-kairati/leetcode_ak/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/arohi-kairati/leetcode_ak/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/arohi-kairati/leetcode_ak/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
