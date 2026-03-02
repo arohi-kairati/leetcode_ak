@@ -71,6 +71,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/arohi-kairati/leetcode_ak/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/arohi-kairati/leetcode_ak/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
@@ -230,6 +231,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/arohi-kairati/leetcode_ak/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/arohi-kairati/leetcode_ak/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/arohi-kairati/leetcode_ak/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arohi-kairati/leetcode_ak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/arohi-kairati/leetcode_ak/tree/master/1512-number-of-good-pairs) |
