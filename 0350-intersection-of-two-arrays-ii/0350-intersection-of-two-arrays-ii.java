@@ -15,8 +15,8 @@ class Solution {
         int []arr = new int[1001];
         for(int i = 0; i <= 1000; i++)
         {
-            System.out.println(count1[i]);
-            System.out.println(count2[i]);
+            //System.out.println(count1[i]);
+            //System.out.println(count2[i]);
             int max = 0;
             if(count1[i] != 0 && count2[i] != 0 && (count1[i] >= count2[i] || count1[i] <= count2[i]))
             {
@@ -40,7 +40,7 @@ class Solution {
         for(int i = 0; i < k; i++)
         {
             a[i] = arr[i];
-            System.out.println(arr[i]);
+            //System.out.println(arr[i]);
         }
         return a;
     }
