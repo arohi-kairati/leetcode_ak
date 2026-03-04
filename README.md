@@ -54,6 +54,7 @@
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arohi-kairati/leetcode_ak/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/arohi-kairati/leetcode_ak/tree/master/3280-convert-date-to-binary) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arohi-kairati/leetcode_ak/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arohi-kairati/leetcode_ak/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -96,6 +97,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/arohi-kairati/leetcode_ak/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/arohi-kairati/leetcode_ak/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arohi-kairati/leetcode_ak/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [2540-minimum-common-value](https://github.com/arohi-kairati/leetcode_ak/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/arohi-kairati/leetcode_ak/tree/master/2549-count-distinct-numbers-on-board) |
 | [2965-find-missing-and-repeated-values](https://github.com/arohi-kairati/leetcode_ak/tree/master/2965-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arohi-kairati/leetcode_ak/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Queue
 |  |
 | ------- |
