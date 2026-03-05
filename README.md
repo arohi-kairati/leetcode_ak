@@ -48,6 +48,7 @@
 | [2544-alternating-digit-sum](https://github.com/arohi-kairati/leetcode_ak/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/arohi-kairati/leetcode_ak/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/arohi-kairati/leetcode_ak/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/arohi-kairati/leetcode_ak/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/arohi-kairati/leetcode_ak/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arohi-kairati/leetcode_ak/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -111,6 +112,7 @@
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/arohi-kairati/leetcode_ak/tree/master/1688-count-of-matches-in-tournament) |
 | [2549-count-distinct-numbers-on-board](https://github.com/arohi-kairati/leetcode_ak/tree/master/2549-count-distinct-numbers-on-board) |
+| [2739-total-distance-traveled](https://github.com/arohi-kairati/leetcode_ak/tree/master/2739-total-distance-traveled) |
 ## Number Theory
 |  |
 | ------- |
