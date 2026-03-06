@@ -23,6 +23,7 @@
 | [0509-fibonacci-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/arohi-kairati/leetcode_ak/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/arohi-kairati/leetcode_ak/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/arohi-kairati/leetcode_ak/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/arohi-kairati/leetcode_ak/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arohi-kairati/leetcode_ak/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -181,6 +182,7 @@
 | [0461-hamming-distance](https://github.com/arohi-kairati/leetcode_ak/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/arohi-kairati/leetcode_ak/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/arohi-kairati/leetcode_ak/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/arohi-kairati/leetcode_ak/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/arohi-kairati/leetcode_ak/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arohi-kairati/leetcode_ak/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/arohi-kairati/leetcode_ak/tree/master/1486-xor-operation-in-an-array) |
